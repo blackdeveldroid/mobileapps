@@ -1,3 +1,4 @@
 <?
-//penambahan 
+//penambahan dilocal kedua
+//testbla bla
 ?>
