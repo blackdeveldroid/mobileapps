@@ -1,3 +1,3 @@
 <?
-//penambahan 
+//penambahan dilocal yang pertama
 ?>
